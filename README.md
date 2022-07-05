@@ -1,1 +1,1 @@
-# learningresources-api-geethanjali
+Java, Spring Boot, REST practise repository
