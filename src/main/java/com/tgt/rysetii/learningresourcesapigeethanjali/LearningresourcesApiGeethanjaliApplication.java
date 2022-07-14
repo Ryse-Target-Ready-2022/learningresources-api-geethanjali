@@ -10,7 +10,7 @@ public class LearningresourcesApiGeethanjaliApplication
 	public static void main(String[] args)
 	{
 		SpringApplication.run(LearningresourcesApiGeethanjaliApplication.class, args);
-		System.out.println("Hello, World!!");
+		System.out.println("Hello! World!!");
 	}
 
 }
